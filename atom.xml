@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://tgbf2674.github.io/"/>
-  <updated>2020-07-17T07:37:27.688Z</updated>
+  <updated>2020-07-17T08:09:05.980Z</updated>
   <id>https://tgbf2674.github.io/</id>
   
   <author>
@@ -21,13 +21,17 @@
     <link href="https://tgbf2674.github.io/2020/07/17/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2%EF%BC%8C%E5%98%8E%E5%98%8E%E5%98%8E/"/>
     <id>https://tgbf2674.github.io/2020/07/17/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2%EF%BC%8C%E5%98%8E%E5%98%8E%E5%98%8E/</id>
     <published>2020-07-17T07:37:27.000Z</published>
-    <updated>2020-07-17T07:37:27.688Z</updated>
+    <updated>2020-07-17T08:09:05.980Z</updated>
     
     <summary type="html">
     
     </summary>
     
     
+      <category term="学习笔记" scheme="https://tgbf2674.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="Spring Cloud" scheme="https://tgbf2674.github.io/tags/Spring-Cloud/"/>
     
   </entry>
   
